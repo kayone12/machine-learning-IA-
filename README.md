@@ -9,4 +9,4 @@ Atividades práticas de Machine Learning em Python (ADS/UNIT).
 ## Como rodar
 ```bash
 pip install -r requirements.txt
-python tratamento-de-dados/tratamento_de_dados.py
+python pasta-do-exemplo/arquivo.py
